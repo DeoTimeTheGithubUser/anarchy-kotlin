@@ -1,5 +1,5 @@
 # anarchy-kotlin
-Anything is possible
+## Anything is possible
 
 For a quick start, paste the following at the top of any kotlin file:
 
